@@ -3,7 +3,7 @@ How to use Wordpress at Pellissippi State
 
 This is how to use our installation of Wordpress at Pellissippi State Community College.
 
-The location of the blog platform is http://blogs.pstcc.edu
+The location of the blog platform is [http://blogs.pstcc.edu](http://blogs.pstcc.edu)
 
 From this web page, you can log in using your current Pellissippi username and password (like you use for Webmail and online classes)
 
